@@ -1,7 +1,7 @@
 # Hi!! 👋 I'm @AndreaAguado, Junior Front-end Developer
 ## Welcome to my Github! 🤗
 
-<img src="https://media.tenor.com/images/78aae22c08c21fe665304fbdaab324fd/tenor.gif" align="right"/>
+<img src="https://media.tenor.com/images/78aae22c08c21fe665304fbdaab324fd/tenor.gif" alt="Hello Kitty typping in a computer gif" align="right"/>
 
 - 🧬💻 I studied Biomedical Engineering but I've changed career paths after discovering how much I liked web development ❤
 - 🌱 I’ve just finished a bootcamp were I learnt HTML, CSS, Javascript and React 👩‍💻
