@@ -1,4 +1,4 @@
-# Hi!! 👋 I'm @AndreaAguado, Junior Front-end Developer
+# Hi!! 👋 I'm Andrea Aguado, Junior Front-end Developer
 ## Welcome to my Github! 🤗
 
 <img src="https://media.tenor.com/images/78aae22c08c21fe665304fbdaab324fd/tenor.gif" alt="Hello Kitty typping in a computer gif" align="right"/>
